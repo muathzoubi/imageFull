@@ -18,10 +18,7 @@ function App() {
       id: 4,
       src: 'https://media.istockphoto.com/id/858675626/photo/cowgirls-and-cowboy-line-up-waiting-to-go-for-a-ride-in-the-morning.jpg?s=1024x1024&w=is&k=20&c=qV-25GWr5Zh5c_lS3lUSPSpv0xUPzSDjV1W2xOq3UXo=',
     },
-    {
-      id: 5,
-      src: 'https://istockphoto.com/photo/cowgirls-and-cowboy-line-up-waiting-to-go-for-a-ride-in-the-morning-gm858675626-141795565',
-    },
+   
     {
       id: 6,
       src: 'https://media.istockphoto.com/id/1394055240/photo/happy-black-female-chef-preparing-food-in-frying-pan-at-restaurant-kitchen.jpg?s=1024x1024&w=is&k=20&c=ACYmz8UwOlA0M-4nAlX_Y4kY95OoVpNwZyGOr4B1tTc=',
