@@ -12,27 +12,27 @@ function App() {
     },
     {
       id: 3,
-      src: 'https://images.unsplash.com/photo-1520004434532-668416a08753?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      src: 'https://media.istockphoto.com/id/1476756309/photo/farmer-harvesting-soybeans.jpg?s=1024x1024&w=is&k=20&c=AIPpBmPb8HEukBOpG8Kvwl0twPz1OoodDyrae-8PPcM=',
     },
     {
       id: 4,
-      src: 'https://images.unsplash.com/photo-1520004434532-668416a08753?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      src: 'https://media.istockphoto.com/id/858675626/photo/cowgirls-and-cowboy-line-up-waiting-to-go-for-a-ride-in-the-morning.jpg?s=1024x1024&w=is&k=20&c=qV-25GWr5Zh5c_lS3lUSPSpv0xUPzSDjV1W2xOq3UXo=',
     },
     {
       id: 5,
-      src: 'https://images.unsplash.com/photo-1520004434532-668416a08753?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      src: 'https://istockphoto.com/photo/cowgirls-and-cowboy-line-up-waiting-to-go-for-a-ride-in-the-morning-gm858675626-141795565',
     },
     {
       id: 6,
-      src: 'https://images.unsplash.com/photo-1520004434532-668416a08753?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      src: 'https://media.istockphoto.com/id/1394055240/photo/happy-black-female-chef-preparing-food-in-frying-pan-at-restaurant-kitchen.jpg?s=1024x1024&w=is&k=20&c=ACYmz8UwOlA0M-4nAlX_Y4kY95OoVpNwZyGOr4B1tTc=',
     },
     {
       id: 7,
-      src: 'https://images.unsplash.com/photo-1520004434532-668416a08753?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      src: 'https://media.istockphoto.com/id/1278840957/photo/houses-by-the-sea.jpg?s=1024x1024&w=is&k=20&c=GpSmh1LNg59nv3FBvdLSVRwdwNpknGoNWa5tv6LLa-w=',
     },
     {
       id: 8,
-      src: 'https://images.unsplash.com/photo-1520004434532-668416a08753?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      src: 'https://media.istockphoto.com/id/1948463768/photo/aerial-view-of-campground-along-the-beach.jpg?s=1024x1024&w=is&k=20&c=zHm7yjqQtTsXgbgMxiqKuVR6sIdE46gmcnKwb4VnY1M=',
     },
   ];
   return (
